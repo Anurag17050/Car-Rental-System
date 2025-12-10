@@ -1,4 +1,3 @@
-# Car-Rental-System
 # Car Rental System (Java)
 
 This project is a simple **console-based Car Rental System** implemented in Java. It demonstrates Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, lists, and user interaction using `Scanner`.
@@ -57,7 +56,7 @@ Main.java
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/car-rental-system.git
+git clone https://github.com/Anurag17050/car-rental-system.git
 ```
 
 2. Navigate to the project folder:
@@ -107,7 +106,3 @@ Enter your choice:
 Feel free to fork this project and submit pull requests.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
